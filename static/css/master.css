@@ -46,7 +46,7 @@ thead th, th {
 
 nav {border-bottom: 1px solid; text-align:center}
 
-nav span {display: inline-block; width: 33%}
+nav span {display: inline-block; width: 25%}
 nav span.prev {text-align:left}
 nav span.next {text-align:right}
 
